@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_48dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/ic_location_on_black_48dp"
+            android:title="Your location" />
+        <item
+            android:id="@+id/nav_meetup"
+            android:icon="@drawable/ic_accessibility_black_48dp"
+            android:title="Meetup" />
+
+        <item
+            android:id="@+id/nav_friends"
+            android:icon="@drawable/ic_group_black_48dp"
+            android:title="Friends" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@mipmap/ic_launcher"
+            android:title="settings" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="About us" />
+            <item
+                android:id="@+id/nav_privacy_policy"
+                android:title="Privacy policy" />
+        </menu>
+    </item>
+
+</menu>

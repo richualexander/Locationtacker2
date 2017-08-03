@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1010794106615",
+    "firebase_url": "https://testproject-37c18.firebaseio.com",
+    "project_id": "testproject-37c18",
+    "storage_bucket": "testproject-37c18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010794106615:android:0b7a156ec59d4f53",
+        "android_client_info": {
+          "package_name": "com.example.richu.locationtacker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010794106615-4c0l6iip9m9ikrjcnj65jnve2oil7ald.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeJDgo4vCx_CdddtKo8dJXRjkQr7jv5vo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
